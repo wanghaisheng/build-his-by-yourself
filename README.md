@@ -68,3 +68,13 @@ how to build all kinds of hospital information systems from scratch by your own 
 第四，数据互联互通。由于各个系统采用统一的基础设施，使得各个系统之间的数据互联互通很方便，提高数据的价值。
 
 第五，行业顶尖。我们已经服务于全国主流的医院信息化软件公司和一些顶级医院。其技术的先进性是公认的。在赋能框架的基础上能开发出行业中顶尖的软件系统。站在巨人的肩膀上看得更远。
+
+
+
+## 运维监控体系
+推荐指数 五颗星
+https://bk.tencent.com/
+https://github.com/TencentBlueKing/BKDocs
+基本上的要求都能够满足 也可以自己开发插件满足额外的诉求
+
+![](https://raw.githubusercontent.com/TencentBlueKing/BKDocs/master/assets/1.jpg)
