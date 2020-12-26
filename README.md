@@ -82,9 +82,24 @@ https://github.com/TencentBlueKing/BKDocs
 
 # 应用系统
 
+# 数据库
+
+
+https://github.com/Tencent/APIJSON
+
+如果你不想让其他系统 其他开发直接在前端写sql来调用你的数据 用它吧 包你爽
+
+APIJSON 是一种专为 API 而生的 JSON 网络传输协议 以及 基于这套协议实现的 ORM 库。
+为 简单的增删改查、复杂的查询、简单的事务操作 提供了完全自动化的万能 API。
+能大幅降低开发和沟通成本，简化开发流程，缩短开发周期。
+适合中小型前后端分离的项目，尤其是 BaaS、Serverless、互联网创业项目和企业自用项目。
+
 ## BS系统开发
 
 https://github.com/Budibase/budibase
+
+https://github.com/baidu/amis
+
 ## 原生app开发
 
 https://github.com/momotech/MLN
