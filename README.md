@@ -1,6 +1,7 @@
 # build-his-by-yourself
 how to build all kinds of hospital information systems from scratch by your own staff 
 
+医院自主研发信息系统手册
 
 # 医院为什么要自主研发信息系统
 
