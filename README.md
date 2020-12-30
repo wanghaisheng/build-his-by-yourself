@@ -145,6 +145,7 @@ Node.js https://github.com/Asymmetrik/node-fhir-server-core
 基于FHIR+mongodb。https://github.com/srdc/onfhir
 FHIR over AWS https://github.com/awslabs/fhir-works-on-aws-deployment
 
+图数据库neo4j+fhir。https://github.com/Optum/CyFHIR/issues
 ## 数据模型
 
 CDM
