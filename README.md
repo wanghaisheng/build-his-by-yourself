@@ -72,6 +72,8 @@ how to build all kinds of hospital information systems from scratch by your own 
 Open source, modern software for charitable hospitals in the developing world.
 https://github.com/HospitalRun
 
+https://cn-landscape.netlify.app/
+
 
 # 基础设施
 ## 运维监控体系
