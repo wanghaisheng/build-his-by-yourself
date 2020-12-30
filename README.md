@@ -69,6 +69,9 @@ how to build all kinds of hospital information systems from scratch by your own 
 
 第五，行业顶尖。我们已经服务于全国主流的医院信息化软件公司和一些顶级医院。其技术的先进性是公认的。在赋能框架的基础上能开发出行业中顶尖的软件系统。站在巨人的肩膀上看得更远。
 
+Open source, modern software for charitable hospitals in the developing world.
+https://github.com/HospitalRun
+
 
 # 基础设施
 ## 运维监控体系
@@ -108,6 +111,9 @@ https://github.com/momotech/MLN
 
 React+fhir  https://github.com/Asymmetrik/fhir-app-starter
 
+## 区块链开发
+
+FHIR+https://github.com/instamed/healthcare-payments-blockchain
 
 ## 网关
 
