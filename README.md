@@ -146,6 +146,9 @@ Node.js https://github.com/Asymmetrik/node-fhir-server-core
 FHIR over AWS https://github.com/awslabs/fhir-works-on-aws-deployment
 
 图数据库neo4j+fhir。https://github.com/Optum/CyFHIR/issues
+
+基于FHIR的质空分析
+https://github.com/samply/blaze/blob/master/docs/implementation/README.md
 ## 数据模型
 
 CDM
