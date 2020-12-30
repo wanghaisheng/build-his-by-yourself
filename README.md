@@ -104,11 +104,40 @@ https://github.com/baidu/amis
 
 https://github.com/momotech/MLN
 
+## APP 开发
+
+React+fhir  https://github.com/Asymmetrik/fhir-app-starter
+
 
 ## 网关
 
+API 聚合
+https://github.com/devopsfaith/krakend/blob/master/docs/CONFIG.md
+
+## 系统交互接口开发
+
+### hl v2 
+
+PHP https://github.com/senaranya/HL7
+
+Python https://github.com/crs4/hl7apy
+
+go https://github.com/dshills/golevel7
+### HL7 V3
+
+
+### FHIR
+JAVA  https://github.com/hapifhir/hapi-fhir
+
+.NET https://github.com/FirelyTeam/firely-net-sdk
+
 
 # 数据分析
+
+## 数据仓库
+
+基于FHIR+mongodb。https://github.com/srdc/onfhir
+FHIR over AWS https://github.com/awslabs/fhir-works-on-aws-deployment
 
 ## 数据模型
 
