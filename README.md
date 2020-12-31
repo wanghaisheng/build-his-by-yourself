@@ -94,6 +94,8 @@ https://github.com/goodrain/rainbond
 
 # 数据库
 
+模拟his数据库
+https://github.com/hosoneu/his_db/blob/master/his_db.sql
 
 https://github.com/Tencent/APIJSON
 
@@ -128,6 +130,11 @@ API 聚合
 https://github.com/devopsfaith/krakend/blob/master/docs/CONFIG.md
 
 ## 系统交互接口开发
+
+## 自定义
+
+http://simulate-his.sdrin.com/docs/index.html
+
 
 ### hl v2 
 
