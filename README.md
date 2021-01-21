@@ -165,6 +165,10 @@ FHIR over AWS https://github.com/awslabs/fhir-works-on-aws-deployment
 
 图数据库neo4j+fhir。https://github.com/Optum/CyFHIR/issues
 
+https://github.com/xr2117/ElasticSearch7
+
+ElasticSerach 7 教程
+
 基于FHIR的质空分析
 https://github.com/samply/blaze/blob/master/docs/implementation/README.md
 ## 数据模型
